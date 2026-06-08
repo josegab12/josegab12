@@ -1,5 +1,5 @@
 # ReadMe
-**# 💫 About Me:
+#  About Me:
 ## About Me :<br><br>* 🔭 **I’m currently working on** developing scalable web applications and data integration platforms using **Java (Spring Boot)** and LLMs.<br>* 👯 **I’m looking to collaborate on** robust backend systems, machine learning, and full-stack solutions integrating Java and Angular.<br>* 🤝 **I’m looking for help with** mastering cloud infrastructure optimization (**AWS**) and advanced container orchestration (**Kubernetes**).<br>* 🌱 **I’m currently learning** advanced software design patterns, deep cloud computing architectures, and Kubernetes deployment strategies.<br>* 💬 **Ask me about** building RESTful APIs, managing team endpoints, implementing distributed protocols (like 2PC and Bully election), and machine learning workflows for time-series forecasting (KDD methodology).
 
 
